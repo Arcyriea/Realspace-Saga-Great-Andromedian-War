@@ -4,6 +4,7 @@
   "private": true,
   "type": "module",
   "scripts": {
+    "editor": "npx phasereditor2d-launcher -project .",
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
@@ -18,6 +19,7 @@
     "@vitejs/plugin-vue": "^5.2.1",
     "@vue/test-utils": "^2.4.6",
     "jsdom": "^26.0.0",
+    "phasereditor2d-launcher": "^3.67.0",
     "prettier": "3.5.3",
     "vite": "^6.2.1",
     "vite-plugin-vue-devtools": "^7.7.2",
