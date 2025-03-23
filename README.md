@@ -33,3 +33,9 @@ npm run build
 ```sh
 npm run test:unit
 ```
+
+### Open Phaser Editor
+
+```sh
+npm run editor
+```
